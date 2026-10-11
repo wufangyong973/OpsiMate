@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/msw-3.0.2",
+    "gfi/1015-alerts-badge-tests",
+    "gfi/1016-sslkeys-tests",
+    "gfi/1017-unused-catch-bindings",
+    "main",
+    "origin",
+    "perf/lazy-snapshot-etag",
+    "perf/snapshot-worker"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/msw-3.0.2": "main",
+    "gfi/1015-alerts-badge-tests": "main",
+    "gfi/1016-sslkeys-tests": "main",
+    "gfi/1017-unused-catch-bindings": "main",
+    "main": null,
+    "origin": "main",
+    "perf/lazy-snapshot-etag": "main",
+    "perf/snapshot-worker": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/msw-3.0.2",
+    "gfi/1015-alerts-badge-tests",
+    "gfi/1016-sslkeys-tests",
+    "gfi/1017-unused-catch-bindings",
+    "origin",
+    "perf/lazy-snapshot-etag",
+    "perf/snapshot-worker"
+  ]
+}
